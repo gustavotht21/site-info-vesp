@@ -1,0 +1,293 @@
+@media (max-width: 600px) {
+    @import url('https://fonts.googleapis.com/css2? família=Nunito:wght@300;900&family=Righteous&family=Sarala:wght@400;700&display=swap');
+    * {
+        box-sizing: border-box;
+        text-decoration: none;
+    }
+
+    body {
+        background-image: linear-gradient(90deg, #1f581e 20%, #30972e 80%);
+    }
+
+    .cabecalho {
+        text-align: center;
+        margin-top: 50px;
+    }
+    .cabecalho-imagem {
+        border: 5px solid #184118;
+        border-radius: 50px;
+        padding: 25px;
+        background-color: #1e4d1e;
+    }
+    .cabecalho-menu {
+        display: flex;
+        justify-content: space-around;
+        margin-top: 40px;
+    }
+    .cabecalho-menu-item {
+        font-family: 'Nunito', sans-serif;
+        color: #ffffff;
+        font-size: 20px;
+        font-weight: 600;
+        padding: 15px;
+        border-radius: 15px;
+    }
+    .cabecalho-menu-item:hover {
+        background-color: #0f3a0e;
+        color: #888888
+    }
+    .conteudo {
+        color: #ffffff;
+        text-align: center;
+        margin-top: 70px;
+        padding-top: 35px;
+        border-top: 2px solid #ffffff;
+        font-family: 'Nunito', sans-serif;
+    }
+    .conteudo-titulo {
+        padding-bottom: 40px;
+        font-size: 35px;
+    }
+    .conteudo-pessoas {
+        padding-bottom: 35px;
+    }
+    .conteudo-pessoas-foto {
+        width: 200px;
+        height: 200px;
+    }
+    .conteudo-pessoas-nome {
+        font-size: 24px;
+        font-weight: 700;
+        text-align: center;
+        margin-left: 50px;
+        margin-right: 50px;
+    }
+
+
+    .rodape {
+        margin-top: 80px;
+        padding-top: 30px;
+        border-top: 2px solid #ffffff;
+        font-family: 'Nunito', sans-serif;
+        color: #ffffff;
+        text-align: center;
+    }
+    .rodape-escrito-titulo {
+        font-size: 30px;
+        font-weight: 700;
+    }
+    .rodape-escrito-subtitulo {
+        font-size: 25px;
+        font-weight: 700;
+        padding-top: 20px;
+    }
+    .rodape-imagem {
+        margin-top: 30px;
+        display: flex;
+        justify-content: space-around;
+    }
+    .rodape-imagem-item {
+        width: 60px;
+        height: 60px;
+    }
+
+}
+@media (min-width: 601px) {
+    @import url('https://fonts.googleapis.com/css2? família=Nunito:wght@300;900&family=Righteous&family=Sarala:wght@400;700&display=swap');
+    * {
+        box-sizing: border-box;
+        text-decoration: none;
+    }
+
+    body {
+        background-image: linear-gradient(90deg, #1f581e 20%, #30972e 80%);
+    }
+
+    .cabecalho {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        margin-top: 50px;
+    }
+    .cabecalho-imagem {
+        border: 5px solid #184118;
+        border-radius: 50px;
+        padding: 25px;
+        background-color: #1e4d1e;
+    }
+    .cabecalho-menu {
+        display: flex;
+        gap: 30px;
+    }
+    .cabecalho-menu-item {
+        color: #ffffff;
+        font-size: 30px;
+        font-family: 'Nunito', sans-serif;
+        font-weight: 600;
+        padding: 15px;
+        border-radius: 15px;
+    }
+    .cabecalho-menu-item:hover {
+        background-color: #0f3a0e;
+        color: #888888
+    }
+
+    .conteudo {
+        font-family: 'Nunito', sans-serif;
+        margin-top: 80px;
+        border-top: 2px solid #ffffff;
+        padding-top: 40px;
+        text-align: center;
+        color: #ffffff
+    }
+    .conteudo-titulo {
+        font-size: 50px;
+        font-weight: 700px;
+        padding-bottom: 45px;
+    }
+    .conteudo-pessoas {
+        padding-bottom: 40px;
+    }
+    .conteudo-pessoas-foto {
+        width: 300px;
+        height: 300px;
+    }
+    .conteudo-pessoas-nome {
+        font-size: 28px;
+        font-weight: 700;
+        text-align: center;
+        margin-left: 175px;
+        margin-right: 175px;
+    }
+
+    .rodape {
+        margin-top: 80px;
+        padding-top: 30px;
+        border-top: 2px solid #ffffff;
+        font-family: 'Nunito', sans-serif;
+        color: #ffffff;
+        text-align: center;
+    }
+    .rodape-escrito-titulo {
+        font-size: 36px;
+        font-weight: 700;
+    }
+    .rodape-escrito-subtitulo {
+        font-size: 28px;
+        font-weight: 700;
+        padding-top: 20px;
+    }
+    .rodape-imagem {
+        margin-top: 30px;
+        display: flex;
+        justify-content: space-around;
+    }
+    .rodape-imagem-item {
+        width: 60px;
+        height: 60px;
+    }
+}
+@media (min-width: 1000px) {
+    @import url('https://fonts.googleapis.com/css2? família=Nunito:wght@300;900&family=Righteous&family=Sarala:wght@400;700&display=swap');
+
+    * {
+        box-sizing: border-box;
+        text-decoration: none;
+    }
+
+    body {
+        background-image: linear-gradient(90deg, #1f581e 20%, #30972e 80%);
+    }
+
+    .cabecalho {
+        display: flex;
+        justify-content: space-around;
+        flex-wrap: wrap;
+        align-items: center;
+        padding: 30px;
+    }
+    .cabecalho-imagem {
+        border: 5px solid #184118;
+        border-radius: 50px;
+        padding: 25px;
+        background-color: #1e4d1e;
+    }
+    .cabecalho-menu {
+        display: flex;
+        gap: 90px;
+    }
+    .cabecalho-menu-item {
+        font-family: 'Nunito', sans-serif;
+        color: #ffffff;
+        font-size: 30px;
+        font-weight: 800;
+        padding: 15px;
+        border-radius: 20px;
+    }
+    .cabecalho-menu-item:hover {
+        background-color: #0f3a0e;
+        color: #888888
+    }
+
+    .conteudo {
+        margin-top: 80px;
+        border-top: 2px solid #ffffff;
+        padding-top: 80px;
+        text-align: center;
+        color: #ffffff;
+        font-family: 'Nunito', sans-serif;
+    }
+    .conteudo-titulo {
+        font-size: 60px;
+        padding-bottom: 60px;
+    }
+
+    .conteudo-pessoas {
+        padding-bottom: 60px;
+    }
+    .conteudo-pessoas-foto {
+        width: 500px;
+        height: 500px;
+        /*background-image: linear-gradient(90deg, #FF0000 0%, #7AD6FD 50.52%, #00FFB2 100%);*/
+        /*padding: 5px;*/
+        border: 10px solid #10460b;
+        border-radius: 10px;
+    }
+
+
+    .conteudo-pessoas-nome {
+        font-size: 35px;
+        font-weight: 700;
+        text-align: center;
+        margin-left: 200px;
+        margin-right: 200px;
+    }
+
+    .rodape {
+        margin-top: 180px;
+        border-top: 2px solid #ffffff;
+        padding-top: 90px;
+        text-align: center;
+        color: #ffffff;
+        font-family: 'Nunito', sans-serif;
+    }
+    .rodape-escrito-titulo {
+        font-size: 50px;
+        font-weight: 700;
+    }
+    .rodape-escrito-subtitulo {
+        font-size: 40px;
+        font-weight: 700;
+        padding-top: 20px;
+    }
+    .rodape-imagem {
+        margin-top: 70px;
+        display: flex;
+        justify-content: center;
+        gap: 350px
+    }
+    .rodape-imagem-item {
+        width: 80px;
+        height: 80px;
+    }
+}

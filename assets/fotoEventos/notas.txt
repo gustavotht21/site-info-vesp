@@ -1,0 +1,6 @@
+- Adicioanar um link do whatsapp para a imagem de cada um dos alunos (para não precisar ter que fazer uplaod
+de 200 arquivos)
+
+- Mudar o caminho de todos os arquivos html para que os botões funcionem
+
+-
