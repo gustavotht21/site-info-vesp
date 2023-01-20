@@ -1,3 +1,43 @@
+<?php $links = [ 'https://www.instagram.com/adriana.maciel__/',
+    'https://www.instagram.com/aquarynx/',
+    '',
+    'https://www.instagram.com/amandamatosb/',
+    'https://www.instagram.com/amizael_ygor/',
+    'https://www.instagram.com/beanna15/',
+    'https://www.instagram.com/bia_pimenta12/',
+    'https://www.instagram.com/drealencarl',
+    'https://www.instagram.com/beare_02',
+    'https://www.instagram.com/carem_lamarao/',
+    'https://www.instagram.com/geovanaguim/',
+    'https://www.instagram.com/gehbatis/',
+    'https://www.instagram.com/borges_gustavo21/',
+    'https://www.instagram.com/uianviniciuz/',
+    'https://www.instagram.com/isa_bug__/',
+    'https://www.instagram.com/jh_jonathan236/',
+    'https://www.instagram.com/jp17072005/',
+    'https://www.instagram.com/kamrodrii/',
+    'https://www.instagram.com/larissa_guarates/',
+    '',
+    'https://www.instagram.com/jlivij_/',
+    'https://www.instagram.com/marqueba_news/',
+    'https://www.instagram.com/maryznha7/',
+    'https://www.instagram.com/nicolle_dias13/',
+    'https://www.instagram.com/castronikie/',
+    'https://www.instagram.com/modeus140/',
+    'https://www.instagram.com/muelxt/',
+    'https://www.instagram.com/saviosantos65/',
+    'https://www.instagram.com/balydinha/',
+    'https://www.instagram.com/thiago__thom3/',
+    'https://www.instagram.com/valeriaax_c/',
+    'https://www.instagram.com/eu__vnz/',
+    'https://www.instagram.com/wattanegreiros/',
+    'https://www.instagram.com/wllmxz/',
+    '',
+    'https://www.instagram.com/erica_silvaax/',
+    'https://www.instagram.com/eueduardomaciel/',
+];
+?>
+
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -15,7 +55,7 @@
 
     <nav class="cabecalho-menu">
         <a class="cabecalho-menu-item" href="../../index.html">Home</a>
-        <a class="cabecalho-menu-item" href="indexAlunos.html">Alunos</a>
+        <a class="cabecalho-menu-item" href="indexAlunos.php">Alunos</a>
         <a class="cabecalho-menu-item" href="../eventos/indexEventos.html">Eventos</a>
     </nav>
 </header>
@@ -25,260 +65,20 @@
     <h1 class="conteudo-titulo">Venha conhecer a<br>nossa turma!!</h1>
 
     <section class="conteudo-alunos">
-        <!-- ADRIANA -->
-        <div class="conteudo-pessoas">
-            <a href="https://www.instagram.com/adriana.maciel__/" target="_blank">
-                <img class="conteudo-pessoas-foto" src="./fotoPessoas/adriana.jpg" alt="foto Adriana Maciel">
-            </a>
-            <h2 class="conteudo-pessoas-nome">Adriana Maciel Quintana Hortiz</h2>
-        </div>
-        <!-- ADRYAN -->
-        <div class="conteudo-pessoas">
-            <a href="https://www.instagram.com/aquarynx/" target="_blank">
-                <img class="conteudo-pessoas-foto" src="./fotoPessoas/adryan.jpg" alt="foto Alexandre Adryan">
-            </a>
-            <h2 class="conteudo-pessoas-nome">Alexandre Adryan Fernandes Rodrigues</h2>
-        </div>
-        <!-- ALEXANDRE -->
-        <div class="conteudo-pessoas">
-            <img class="conteudo-pessoas-foto" src="./fotoPessoas/alexandre.jpg" alt="foto Alexandre Borgs">
-            <h2 class="conteudo-pessoas-nome">Alexandre Borgs Fujita</h2>
-        </div>
-        <!-- AMANDA -->
-        <div class="conteudo-pessoas">
-            <a href="https://www.instagram.com/amandamatosb/" target="_blank">
-                <img class="conteudo-pessoas-foto" src="./fotoPessoas/amanda.jpg" alt="foto Amanda Barros">
-            </a>
-            <h2 class="conteudo-pessoas-nome">Amanda Barros Matos</h2>
-        </div>
-        <!-- AMIZAEL -->
-        <div class="conteudo-pessoas">
-            <a href="https://www.instagram.com/amizael_ygor/" target="_blank">
-                <img class="conteudo-pessoas-foto" src="./fotoPessoas/amizael.jpg" alt="foto Amanda Barros">
-            </a>
-            <h2 class="conteudo-pessoas-nome">Amizael Ygor Oliveira Cavalcante</h2>
-        </div>
-        <!-- BEATRIZ OLIVEIRA -->
-        <div class="conteudo-pessoas">
-            <a href="https://www.instagram.com/beanna15/" target="_blank">
-                <img class="conteudo-pessoas-foto" src="fotoPessoas/anaOliveira.jpg" alt="foto Ana Beatriz De Oliveira">
-            </a>
-            <h2 class="conteudo-pessoas-nome">Ana Beatriz De Oliveira Pedraça</h2>
-        </div>
-        <!-- BEATRIZ PIMENTA -->
-        <div class="conteudo-pessoas">
-            <a href="https://www.instagram.com/bia_pimenta12/" target="_blank">
-                <img class="conteudo-pessoas-foto" src="./fotoPessoas/anaPimenta.jpg" alt="foto Ana Beatriz Pimenta">
-            </a>
-            <h2 class="conteudo-pessoas-nome">Ana Beatriz Pimenta Coelho</h2>
-        </div>
-        <!-- ANDRESSA -->
-        <div class="conteudo-pessoas">
-            <a href="https://www.instagram.com/drealencarl/" target="">
-                <img class="conteudo-pessoas-foto" src="./fotoPessoas/andressa.jpg" alt="foto Andressa Leite">
-            </a>
-            <h2 class="conteudo-pessoas-nome">Andressa Leite Alencar</h2>
-        </div>
-        <!-- BEATRIZ JÚLIA -->
-        <div class="conteudo-pessoas">
-            <a href="https://www.instagram.com/beare_02/" target="">
-                <img class="conteudo-pessoas-foto" src="./fotoPessoas/beatrizJulia.jpg" alt="foto Beatriz Júlia">
-            </a>
-            <h2 class="conteudo-pessoas-nome">Beatriz Júlia Cavalcante Dos Santos</h2>
-        </div>
-        <!-- CAREM -->
-        <div class="conteudo-pessoas">
-            <a href="https://www.instagram.com/carem_lamarao/" target="_blank">
-                <img class="conteudo-pessoas-foto" src="./fotoPessoas/carem.jpg" alt="foto Carem Lúcia">
-            </a>
-            <h2 class="conteudo-pessoas-nome">Carem Lúcia Pires Lamarão</h2>
-        </div>
-        <!-- ÉRICA -->
-        <div class="conteudo-pessoas">
-            <a href="https://www.instagram.com/erica_silvaax/" target="_blank">
-                <img class="conteudo-pessoas-foto" src="./fotoPessoas/erica.jpg" alt="foto Érica Rodrigues">
-            </a>
-            <h2 class="conteudo-pessoas-nome">Érica Rodrigues Da Silva</h2>
-        </div>
-        <!-- GEOVANA -->
-        <div class="conteudo-pessoas">
-            <a href="https://www.instagram.com/geovanaguim/" target="_blank">
-                <img class="conteudo-pessoas-foto" src="./fotoPessoas/geovana.jpg" alt="foto Geovana Alves">
-            </a>
-            <h2 class="conteudo-pessoas-nome">Geovana Alves Guimarães</h2>
-        </div>
-        <!-- GEOVANNA -->
-        <div class="conteudo-pessoas">
-            <a href="https://www.instagram.com/gehbatis/" target="_blank">
-                <img class="conteudo-pessoas-foto" src="./fotoPessoas/geovanna.jpg" alt="foto Geovanna Batista">
-            </a>
-            <h2 class="conteudo-pessoas-nome">Geovanna Batista dos Santos</h2>
-        </div>
-        <!-- GUSTAVO -->
-        <div class="conteudo-pessoas">
-            <a href="https://www.instagram.com/borges_gustavo21/" target="_blank">
-                <img class="conteudo-pessoas-foto" src="./fotoPessoas/gustavo.jpg" alt="foto Gustavo Casagrande">
-            </a>
-            <h2 class="conteudo-pessoas-nome">Gustavo Casagrande Borges</h2>
-        </div>
-        <!-- IAN  -->
-        <div class="conteudo-pessoas">
-            <a href="https://www.instagram.com/uianviniciuz/" target="_blank">
-                <img class="conteudo-pessoas-foto" src="./fotoPessoas/ian.jpg" alt="foto Ian Vinícius">
-            </a>
-            <h2 class="conteudo-pessoas-nome">Ian Vinícius Vasconcelos de Oliveira Santos</h2>
-        </div>
-        <!-- ISABELLA -->
-        <div class="conteudo-pessoas">
-            <a href="https://www.instagram.com/isa_bug__/" target="_blank">
-                <img class="conteudo-pessoas-foto" src="./fotoPessoas/isabella.jpg" alt="foto Isabella Cristina">
-            </a>
-            <h2 class="conteudo-pessoas-nome">Isabella Cristina Gonçalvez Queiroz da Silva</h2>
-        </div>
-        <!-- ÍTALO -->
-        <div class="conteudo-pessoas">
-            <a href="https://www.instagram.com/eueduardomaciel/" target="_blank">
-                <img class="conteudo-pessoas-foto" src="./fotoPessoas/italo.jpg" alt="foto Ítalo Eduardo">
-            </a>
-            <h2 class="conteudo-pessoas-nome">Ítalo Eduardo Maciel Tenório</h2>
-        </div>
-        <!-- JOÃO  -->
-        <div class="conteudo-pessoas">
-            <a href="https://www.instagram.com/jp17072005/" target="_blank">
-                <img class="conteudo-pessoas-foto" src="./fotoPessoas/joao.jpg" alt="foto João Pedro">
-            </a>
-            <h2 class="conteudo-pessoas-nome">João Pedro Monteiro Ferreira</h2>
-        </div>
-        <!-- JHONATAN  -->
-        <div class="conteudo-pessoas">
-            <a href="https://www.instagram.com/jh_jonathan236/" target="_blank">
-                <img class="conteudo-pessoas-foto" src="./fotoPessoas/jhonatan.jpg" alt="foto Jhonatan Melo">
-            </a>
-            <h2 class="conteudo-pessoas-nome">Jhonatan Melo Moreira da Silva</h2>
-        </div>
-        <!-- KAMYLLA -->
-        <div class="conteudo-pessoas">
-            <a href="https://www.instagram.com/kamrodrii/" target="_blank">
-                <img class="conteudo-pessoas-foto" src="./fotoPessoas/kamylla.jpg" alt="foto Kamylla Rodrigues">
-            </a>
-            <h2 class="conteudo-pessoas-nome">Kamylla Rodrigues da Silva</h2>
-        </div>
-        <!-- LARISSA -->
-        <div class="conteudo-pessoas">
-            <a href="https://www.instagram.com/larissa_guarates/" target="_blank">
-                <img class="conteudo-pessoas-foto" src="./fotoPessoas/larissa.jpg" alt="foto Larissa Cristina">
-            </a>
-            <h2 class="conteudo-pessoas-nome">Larissa Cristina Nunes Guarates
-            </h2>
-        </div>
-        <!-- LÍVIA -->
-        <div class="conteudo-pessoas">
-            <a href="https://www.instagram.com/jlivij_/" target="_blank">
-                <img class="conteudo-pessoas-foto" src="./fotoPessoas/livia.jpg" alt="foto Lívia Gabriele">
-            </a>
-            <h2 class="conteudo-pessoas-nome">Lívia Gabriele Campos Lima</h2>
-        </div>
-        <!-- LUÍS -->
-        <div class="conteudo-pessoas">
-            <img class="conteudo-pessoas-foto" src="./fotoPessoas/luis.jpg" alt="foto Luís Carlos">
-            <h2 class="conteudo-pessoas-nome">Luís Carlos Vieira Lunas</h2>
-        </div>
-        <!-- MARQUEBA -->
-        <div class="conteudo-pessoas">
-            <a href="https://www.instagram.com/marqueba_news/" target="_blank">
-                <img class="conteudo-pessoas-foto" src="./fotoPessoas/marqueba.jpg" alt="foto Marcos Reis">
-            </a>
-            <h2 class="conteudo-pessoas-nome">Marcos Reis Dutra</h2>
-        </div>
-        <!-- MARY HELEN -->
-        <div class="conteudo-pessoas">
-            <a href="https://www.instagram.com/maryznha7/" target="_blank">
-                <img class="conteudo-pessoas-foto" src="./fotoPessoas/mary.jpg" alt="foto Mary Helen">
-            </a>
-            <h2 class="conteudo-pessoas-nome">Mary Helen Soares Pimentel</h2>
-        </div>
-        <!-- NICOLLE -->
-        <div class="conteudo-pessoas">
-            <a href="https://www.instagram.com/nicolle_dias13/" target="_blank">
-                <img class="conteudo-pessoas-foto" src="./fotoPessoas/nicolle.jpg" alt="foto Nicolle Cristini">
-            </a>
-            <h2 class="conteudo-pessoas-nome">Nicolle Cristini Dias do Nascimento</h2>
-        </div>
-        <!-- NIKOLLE -->
-        <div class="conteudo-pessoas">
-            <a href="https://www.instagram.com/castronikie/" target="_blank">
-                <img class="conteudo-pessoas-foto" src="./fotoPessoas/nikolle.jpg" alt="foto Nikolle Castro">
-            </a>
-            <h2 class="conteudo-pessoas-nome">Nikolle Castro Magalhães</h2>
-        </div>
-        <!-- PEDRO -->
-        <div class="conteudo-pessoas">
-            <a href="https://www.instagram.com/modeus140/" target="_blank">
-                <img class="conteudo-pessoas-foto" src="./fotoPessoas/pedro.jpg" alt="foto Pedro Henrique">
-            </a>
-            <h2 class="conteudo-pessoas-nome">Pedro Henrique da Silva Silvestre</h2>
-        </div>
-        <!-- SAMUEL -->
-        <div class="conteudo-pessoas">
-            <a href="https://www.instagram.com/muelxt/" target="_blank">
-                <img class="conteudo-pessoas-foto" src="./fotoPessoas/samuel.jpg" alt="foto Samuel Alves">
-            </a>
-            <h2 class="conteudo-pessoas-nome">Samuel Alves Freitas</h2>
-        </div>
-        <!-- SÁVIO -->
-        <div class="conteudo-pessoas">
-            <a href="https://www.instagram.com/saviosantos65/" target="_blank">
-                <img class="conteudo-pessoas-foto" src="./fotoPessoas/savio.jpg" alt="foto Sávio Luiz">
-            </a>
-            <h2 class="conteudo-pessoas-nome">Sávio Luiz Santos da Silva</h2>
-        </div>
-        <!-- THALITA -->
-        <div class="conteudo-pessoas">
-            <a href="https://www.instagram.com/balydinha/" target="_blank">
-                <img class="conteudo-pessoas-foto" src="./fotoPessoas/thalita.jpg" alt="foto Thalita Gonçalves">
-            </a>
-            <h2 class="conteudo-pessoas-nome">Thalita Gonçalves da Costa</h2>
-        </div>
-        <!-- THIAGO -->
-        <div class="conteudo-pessoas">
-            <a href="https://www.instagram.com/thiago__thom3/" target="_blank">
-                <img class="conteudo-pessoas-foto" src="./fotoPessoas/thiago.jpg" alt="foto Thiago Tomé">
-            </a>
-            <h2 class="conteudo-pessoas-nome">Thiago Tomé De Souza</h2>
-        </div>
-        <!-- VALÉRIA -->
-        <div class="conteudo-pessoas">
-            <a href="https://www.instagram.com/valeriaax_c/" target="_blank">
-                <img class="conteudo-pessoas-foto" src="./fotoPessoas/valeria.jpg" alt="foto Valéria Viana">
-            </a>
-            <h2 class="conteudo-pessoas-nome">Valéria Viana De Carvalho</h2>
-        </div>
-        <!-- VITÓRIA -->
-        <div class="conteudo-pessoas">
-            <a href="https://www.instagram.com/eu__vnz/" target="_blank">
-                <img class="conteudo-pessoas-foto" src="./fotoPessoas/vitoria.jpg" alt="foto Vitória Nascimento">
-            </a>
-            <h2 class="conteudo-pessoas-nome">Vitória Nascimento Neves</h2>
-        </div>
-        <!-- WATA -->
-        <div class="conteudo-pessoas">
-            <a href="https://www.instagram.com/wattanegreiros/" target="_blank">
-                <img class="conteudo-pessoas-foto" src="./fotoPessoas/wata.jpg" alt="foto Wata Negreiros">
-            </a>
-            <h2 class="conteudo-pessoas-nome">Wata Negreiros Monteiro</h2>
-        </div>
-        <!-- WILL -->
-        <div class="conteudo-pessoas">
-            <a href="https://www.instagram.com/wllmxz/" target="_blank">
-                <img class="conteudo-pessoas-foto" src="./fotoPessoas/willian.jpg" alt="foto William de Mendonça">
-            </a>
-            <h2 class="conteudo-pessoas-nome">William de Mendonça Ribeiro</h2>
-        </div>
-        <!-- YURI -->
-        <div class="conteudo-pessoas">
-            <img class="conteudo-pessoas-foto" src="./fotoPessoas/yuri.jpg" alt="foto Yuri Gabriel">
-            <h2 class="conteudo-pessoas-nome">Yuri Gabriel Santos da Silva</h2>
-        </div>
+        <?php
+        $people = glob("fotoPessoas/*.jpg");
+        $aux = 0;
+        foreach ($people as $person) {
+            $nome = explode("/", $person);
+            $nome = explode('.', $nome[1]);
+            ?>
+            <div class="conteudo-pessoas">
+                <a href="<?=$links[$aux]?>" target="<?=empty($links[$aux]) ? '' : "_blank"?>">
+                    <img class="conteudo-pessoas-foto" src="<?=$person?>" alt="foto <?=$nome[0]?>">
+                </a>
+                <h2 class="conteudo-pessoas-nome"><?=$nome[0]?></h2>
+            </div>
+        <?php $aux++; }?>
     </section>
 
 </main>
